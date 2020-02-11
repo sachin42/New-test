@@ -16,7 +16,6 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
 
@@ -24,4 +23,10 @@ Syntax highlighted code block
 ### Support or Contact
  
  Telegram channel:t.me/gitnerd
+ ```
+
+
+ ```
+ [google](google.com)
+ 
 
